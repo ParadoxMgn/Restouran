@@ -1,0 +1,31 @@
+.header__row {
+  padding: 13px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #299B01;
+
+}
+
+.header__title a {
+  display: flex;
+  align-items: center;
+}
+
+.header__title h1 {
+  margin-left: 12px;
+  color: white;
+  font-family: Pacifico;
+}
+
+.header__sign {
+  display: flex;
+  align-items: center;
+}
+
+.header__sign button {
+  background: inherit;
+  border: none;
+  cursor: pointer;
+  color: white;
+}
